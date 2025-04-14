@@ -1,7 +1,7 @@
 # Prodigy_Infotech_Internship_Task_4
 Analyzing and Visualizing sentiment patterns in social media data (Twitter) to understand public opinion and attitude towards specific topics or brands.
 
-**Twitter Sentiment Analysis **
+**Twitter Sentiment Analysis:**
 This project focuses on analyzing and visualizing sentiment patterns in social media data to understand public opinion and attitude towards specific topics or brands. The analysis was performed on Twitter sentiment data, consisting of both training and validation datasets.
 
 **Data Preparation:**
